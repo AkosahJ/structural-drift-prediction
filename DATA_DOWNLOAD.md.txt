@@ -1,0 +1,10 @@
+Source
+
+NDE1.0: New Earthquake Data Recorded in Buildings
+ISTerre — Université Grenoble Alpes
+
+Direct Download Link
+
+https://www.isterre.fr/annuaire/pages-web-du-personnel/philippe-gueguen/new-earthquake-data-recorded-in-buildings-nde1-0/article/acces-to-the-flatfile.html
+
+(Note: Dataset must be uploaded manually into the notebook when prompted.)
